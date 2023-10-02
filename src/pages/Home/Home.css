@@ -1,0 +1,27 @@
+body{
+    background-color: #000001;
+}
+
+.grid{
+    position: absolute;
+    top: 160px;
+    --width: 50vw;
+    width: var(--width);
+    left: calc(50vw - var(--width)/2);
+    height: calc(95vh - 160px);
+    display: grid;
+    grid-template: repeat(11, 1fr) / 1fr 1fr 1fr;
+    grid-auto-flow: column;
+    gap: 10px;
+}
+
+
+.card {
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: left;
+    font-family: 'Inktober';
+    font-size: 3em;
+    cursor: pointer;
+}
