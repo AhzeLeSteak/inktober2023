@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inktober2023/static/css/main.c8d51f6f.css",
+    "main.js": "/inktober2023/static/js/main.b74e085d.js",
+    "static/js/787.d697e105.chunk.js": "/inktober2023/static/js/787.d697e105.chunk.js",
+    "static/media/manlymenbb_bold.ttf": "/inktober2023/static/media/manlymenbb_bold.2fab82c7a14e844777fa.ttf",
+    "index.html": "/inktober2023/index.html",
+    "main.c8d51f6f.css.map": "/inktober2023/static/css/main.c8d51f6f.css.map",
+    "main.b74e085d.js.map": "/inktober2023/static/js/main.b74e085d.js.map",
+    "787.d697e105.chunk.js.map": "/inktober2023/static/js/787.d697e105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8d51f6f.css",
+    "static/js/main.b74e085d.js"
+  ]
+}
